@@ -1,0 +1,58 @@
+.navbar{
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+    padding:0px 5% !important;
+}
+
+.navbar-style{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.navbar-link-style{
+    color:black;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 36px !important;
+    margin-right: 36px !important;
+}
+
+.navbar-link-style:hover{
+    color:chartreuse;
+}
+
+.dropdown-item.navbar-link-style{
+    margin-left: 0px !important ;
+}
+
+.section{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    display: block;
+    padding-top: 30px;
+}
+
+.heading1{
+    font-size: 2.5rem;
+    color: darkolivegreen;
+    padding-top: 40px;
+    padding-bottom: 1rem;
+    /*for the line under What is Bootstrap*/
+    background: linear-gradient(rgb(14, 114, 39),rgb(76,219,114)) no-repeat bottom left/5em 0.2ch; 
+}
+
+.Table-Heading{
+    color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.img:hover{
+    background-color: greenyellow;
+    transform: scale(1.5); 
+}

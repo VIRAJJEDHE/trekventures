@@ -1,0 +1,21 @@
+.form_heading{
+    padding-bottom: 10px;
+    background: linear-gradient(rgb(14, 114, 39),rgb(76,219,114)) no-repeat bottom left/3em 0.2ch;
+    
+}
+
+.input_style{
+    padding-top: 10px;
+    font-family:cursive;
+}
+
+.form_shadow{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+body{
+    background-image: url('../images/phone_bg.jpg');
+    background-size : cover ;
+    background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+}
